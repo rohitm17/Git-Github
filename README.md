@@ -31,6 +31,8 @@ Clone means making an exact copy on local machine.
 A fork is a copy of a repository that allows you to freely experiment with changes without affecting the original project.
 
 ## Practical work
+
+![CICD](https://github.com/rohitm17/Git-Github/blob/main/CICD.png)
 ### How to Install Git
 
 For Linux, open the terminal and type 
@@ -84,7 +86,7 @@ git fetch 'remote'
 ## Git Internals 
 
 
-![shortcut](https://github.com/rohitm17/Git-Github/blob/main/Git.png)
+![Git](https://github.com/rohitm17/Git-Github/blob/main/Git.png)
 
 The picture above shows you the basic commands to move your files into different
 trees in your repository.
